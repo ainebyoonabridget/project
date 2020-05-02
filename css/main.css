@@ -5,7 +5,7 @@ body{
 
 }
 .home{
-	background-color: red;
+	background-color:red;
 }
 .about{
 	background-color:green;
@@ -26,16 +26,20 @@ ul {
   overflow: hidden;
   background-color: #333;
 }
-
 li {
   float: left;
 }
-
+h{
+  font-size: 40px;
+}
+header{
+  font-size: 30px;
+}
 li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 30px 20px;
   text-decoration: none;
 }
 li a:hover {
